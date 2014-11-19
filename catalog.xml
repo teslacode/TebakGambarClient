@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8081/TebakGambarWS/Service?wsdl" uri="src/conf/xml-resources/web-service-references/Service/wsdl/localhost_8081/TebakGambarWS/Service.wsdl"/>
+    <system systemId="http://localhost:8081/TebakGambarWS/Service?xsd=1" uri="src/conf/xml-resources/web-service-references/Service/wsdl/localhost_8081/TebakGambarWS/Service.xsd_1.xsd"/>
+    <system systemId="http://localhost:8081/TebakGambarWS/SoalService?wsdl" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/localhost_8081/TebakGambarWS/SoalService.wsdl"/>
+    <system systemId="http://localhost:8081/TebakGambarWS/SoalService?xsd=1" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/localhost_8081/TebakGambarWS/SoalService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/TebakGambarWS/RoomService?wsdl" uri="src/conf/xml-resources/web-service-references/RoomService/wsdl/localhost_8080/TebakGambarWS/RoomService.wsdl"/>
+    <system systemId="http://localhost:8080/TebakGambarWS/RoomService?xsd=1" uri="src/conf/xml-resources/web-service-references/RoomService/wsdl/localhost_8080/TebakGambarWS/RoomService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/TebakGambarWS/SoalService?wsdl" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/localhost_8080/TebakGambarWS/SoalService.wsdl"/>
+    <system systemId="http://localhost:8080/TebakGambarWS/SoalService?xsd=1" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/localhost_8080/TebakGambarWS/SoalService.xsd_1.xsd"/>
+    <system systemId="http://tebakgambarws-teslacode.rhcloud.com/TebakGambarWS/SoalService?wsdl" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/tebakgambarws-teslacode.rhcloud.com/TebakGambarWS/SoalService.wsdl"/>
+    <system systemId="http://tebakgambarws-teslacode.rhcloud.com:80/TebakGambarWS/SoalService?xsd=1" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/tebakgambarws-teslacode.rhcloud.com_80/TebakGambarWS/SoalService.xsd_1.xsd"/>
+    <system systemId="http://tebakgambar-teslacode.rhcloud.com:80/TebakGambarWS/SoalService?wsdl" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/tebakgambar-teslacode.rhcloud.com_80/TebakGambarWS/SoalService.wsdl"/>
+    <system systemId="http://tebakgambar-teslacode.rhcloud.com:80/TebakGambarWS/SoalService?xsd=1" uri="src/conf/xml-resources/web-service-references/SoalService/wsdl/tebakgambar-teslacode.rhcloud.com_80/TebakGambarWS/SoalService.xsd_1.xsd"/>
+</catalog>
